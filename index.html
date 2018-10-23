@@ -1,0 +1,46 @@
+---
+title: Ronald Langeveld
+layout: default
+---
+<section class="section">
+
+    <div class="container">
+
+<h1 class="title is-4 has-text-centered">{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+<h2 class="subtitle is-5 has-text-centered">Indie Web Developer and </h2>
+    </div>
+
+</section>
+
+<section class="section">
+
+
+    <div class="container">
+
+            
+                    {% for post in site.posts %}
+                    <div class="columns is-centered">
+         
+                        <div class="column is-half">
+    <!-- <img class="image is-1by1" src={{ post.feature-img }} alt="Feature Image"/> -->
+
+
+    <div class="has-text-centered">
+        
+                      <a class="title is-6" href="{{ post.url }}">
+                            <div class="feat-img" style="background-image: url('{{ post.feature-img }}')"></div>  
+                        {{ post.title }}</a>
+<br>
+</div>
+<p class="subtitle is-7">{{ post.content | strip_html | truncatewords:30 }}</p>
+
+</div>
+</div>
+                    {% endfor %}
+
+                 
+                  </div>
+    </div>
+
+
+</section>

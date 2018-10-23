@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css" />
+    <link rel="stylesheet" href="{{ "assets/css/main.css" | prepend: site.baseurl }}">
+</head>
+<body>
+    <div>
+{% include navbar.html %}
+</div>
+<div>
+    {{ content }}
+</div>
+
+
+
+<script src="{{ "assets/js/main.js" | prepend: site.baseurl }}"></script>
+
+<script async src="https://cdn.simpleanalytics.io/hello.js"></script> 
+<noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
+</body>
+</html>
