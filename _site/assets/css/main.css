@@ -1,6 +1,5 @@
-.feat-img {
-    height: 400px;
-    width: 100%;
-    background-size: cover;
-    background-position: center center;
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    font-family: 'Open Sans', sans-serif;
 }

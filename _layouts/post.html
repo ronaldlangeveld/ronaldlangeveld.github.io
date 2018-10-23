@@ -6,15 +6,25 @@ layout: default
 
     <div class="container">
 
+
+<br>
+
+        <div class="columns is-centered">
+
+            <div class="column is-two-thirds">
+                    <time class="subtitle is-7">{{ page.date | date: "%-d %B %Y"}}</time>
+                    <br>
+                                        <h2 class="title is-3">{{ page.title }}</h2>
+                    <img style="width: 100%" src="{{ page.feature-img }}" alt="">
+
+            </div>
+
+        </div>
+
         <div class="columns is-centered">
 
             <div class="column is-half">
-<div class="has-text-centered">
-<img style="width: 100%" src="{{ page.feature-img }}" alt="">
-    <h2 class="title is-5">{{ page.title }}</h2>
-                    <time class="subtitle is-7">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</time>
-                    
-</div>
+
 <br>
                     <div class="content is-medium">
                     {{ content }}
