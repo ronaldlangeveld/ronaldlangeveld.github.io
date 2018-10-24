@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "I made a Telegram bot that tells me local surf conditions."
+author: "Ronald Langeveld"
 
 ---
 

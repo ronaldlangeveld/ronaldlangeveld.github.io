@@ -12,9 +12,10 @@ layout: default
         <div class="columns is-centered">
 
             <div class="column is-two-thirds">
-                    <time class="subtitle is-7">{{ page.date | date: "%-d %B %Y"}}</time>
+                    <time class="is-size-7 has-text-weight-light">{{ page.date | date: "%-d %B %Y"}}</time>
                     <br>
-                                        <h2 class="title is-3">{{ page.title }}</h2>
+                                        <h2 class="title is-2">{{ page.title }}</h2>
+                     
                     <img style="width: 100%" src="{{ page.feature-img }}" alt="">
 
             </div>
@@ -30,6 +31,9 @@ layout: default
                     {{ content }}
                     
                     </div>
+
+                    <!-- <h1 class="is-size-6">by {{page.author}}</h1> -->
+                    <br>
                     <p class="subtitle is-6"><a href="/">Back to article list</a></p>
             </div>
 

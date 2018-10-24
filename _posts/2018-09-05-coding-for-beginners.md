@@ -2,6 +2,7 @@
 layout: post
 title:  "Coding for beginners"
 feature-img: "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ&s=19f37de81950edd51d25ddd1a8aa9687"
+author: "Ronald Langeveld"
 ---
 
 > How do I build something? I'm not a programmer.

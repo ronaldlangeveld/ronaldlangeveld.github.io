@@ -2,6 +2,7 @@
 layout: post
 title:  "How to delete Facebook and not lose your friends (and photos)"
 feature-img: "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=6354c26fa366d6b456db1d7cf1137c89&auto=format&fit=crop&w=2253&q=80"
+author: "Ronald Langeveld"
 ---
 
 > Facebook is boring, it used to be great now it’s boring. I used to have 200 friends now I have 1500. There is no way I know 1500 people. Draconian measures must be taken to save my relationship with the social network. The unfriend button is my path to making Facebook an enjoyable experience once again.
