@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Getting Downtime Bot featured on Product Hunt.</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css" />
+
+    <link rel="stylesheet" href="/assets/css/main.css">
+</head>
+<body>
+    <div>
+<nav class="navbar is-transparent is-fixed">
+        <div class="navbar-brand">
+          <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+            <span></span>
+            <span></span>
+            <span></span>
+          </div>
+        </div>
+      
+        <div id="navbarExampleTransparentExample" class="navbar-menu">
+          <div class="navbar-start">
+      
+      
+      
+          </div>
+      
+          <div class="navbar-end">
+      
+                        <a class="nav-home navbar-item is-size-7" href="/">
+             Home
+            </a>
+                        <a class="nav-about navbar-item is-size-7" href="/about">
+             About
+            </a>
+            <a class="nav-about navbar-item is-size-7" href="/hire-me">
+              Hire Me
+             </a>
+                        <a class="nav-twitter navbar-item is-size-7" href="https://twitter.com/ronaldlangeveld">
+             Twitter
+            </a>
+                        <a class="nav-github navbar-item is-size-7" href="https://github.com/ronaldlangeveld">
+             Github
+            </a>
+                        <!-- <a class="nav-subscribe navbar-item is-size-7" href="https://ronaldlangeveld.com/subscribe/">
+             Subscribe
+            </a> -->
+      
+          </div>
+        </div>
+      </nav>
+</div>
+<div>
+    <section class="section">
+
+    <div class="container">
+
+
+<br>
+
+        <div class="columns is-centered">
+
+            <div class="column is-two-thirds">
+                    <time class="subtitle is-7">4 January 2018</time>
+                    <br>
+                                        <h2 class="title is-3">Getting Downtime Bot featured on Product Hunt.</h2>
+                    <img style="width: 100%" src="" alt="">
+
+            </div>
+
+        </div>
+
+        <div class="columns is-centered">
+
+            <div class="column is-half">
+
+<br>
+                    <div class="content is-medium">
+                    <p>Launching products is what I love doing….. well, creating products and seeing it come to life and then sharing it with the world.. It think it’s the coding part that’s addictive. Writing code and then to see my computer finally doing what I asked it to do is what makes my dopamine levels rocket. It’s satisfying.</p>
+
+<p>I went to a small surfing town called Jeffreys Bay over the Christmas holidays. It was great! I got to surf some epic waves, saw family and even went sandboarding. It’s an epic change of scene and routine from what I have going here. Good little breakaway.</p>
+
+<p><img src="https://res.cloudinary.com/cinemakers/image/upload/v1540360389/blog/nIdgSMu.jpg" alt="" /></p>
+
+<p>Of course, it still didn’t stop me from coding as much as possible and working on multiple projects while I was there.</p>
+
+<p><img src="https://res.cloudinary.com/cinemakers/image/upload/v1540360423/blog/wB3ntyn.jpg" alt="" /></p>
+
+<p>One afternoon when I got home, I tried accessing one of my sites.. but it was just down. Silly me, I realised that I forgot to <code class="highlighter-rouge">systemctl start nginx</code> after configuring a few settings on my server. It was like 10 hours since I did it, which means my site was off for 10 years without even realising it. How silly. I do have a service who emails me when my site goes offline… but still - I rarely check my email especially if I’m not expecting anything.</p>
+
+<p>Being kinda annoyed about it, I started thinking of ways that would make it easier for me to know when my site goes offline - without email &amp; third party apps. The company I was with do actually provide SMS notifications, but they charge extra and per sms. Also, my phone is on flight mode (with wifi) most of the time so SMS’s wouldn’t come through.</p>
+
+<p>I’m a member on this really awesome Telegram group called <a href="https://wip.chat/">Work in Progress</a> (or WIP) where me and fellow developers (amongst others) would write To-Do’s and just chat. The To-Do’s are managed by bots and it’s pretty cool. You can let it know when you’ve completed a task and so forth. <a href="https://levels.io/100-days-of-shipping/">Pieter Levels wrote a detailed article about featuring WIP.</a></p>
+
+<p>Because I got used to using Telegram’s Bots and I generally have my phone with me, as opposed to email, I figured a Telegram Bot letting me know when my site isn’t working is exactly what I need!</p>
+
+<p>So I decided to learn how to code Bots.</p>
+
+<p>Actually, it was relatively simple. Bots can be scripted in just about any language. I chose Python3. You get a bot token from the Botfather (another bot on Telegram) and then you hook it up to your script by using Telegram’s API. You have to hose the server script yourself though.
+There’s many open source projects on Github you can look at to get some examples.</p>
+
+<p>After a couple of hours of coding and messing around, I finally got my Bot to message me when I typed <code class="highlighter-rouge">sudo systemctl stop nginx</code> on my server. I was super stoked. Went around trying to show my whole family how its done, etc.</p>
+
+<p>I loaded it up onto my server and I finally had my own bot that would notify me should something go wrong server side.</p>
+
+<p>After doing some research I transformed it into a little service.</p>
+
+<p><a href="https://www.producthunt.com/posts/downtime-bot-for-telegram">On launch day I received close to a thousand hits and got featured on Product Hunt making it into the Top 10 products of the day.</a></p>
+
+<p>So basically, if you want something that doesn’t exist, build it yourself… chances are it can become a little side business. Or not. But keep building your own stuff.</p>
+
+                    
+                    </div>
+                    <p class="subtitle is-6"><a href="/">Back to article list</a></p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+</div>
+
+
+
+<script src="/assets/js/main.js"></script>
+
+<script async src="https://cdn.simpleanalytics.io/hello.js"></script> 
+<noscript><img src="https://api.simpleanalytics.io/hello.gif" alt=""></noscript>
+</body>
+</html>
