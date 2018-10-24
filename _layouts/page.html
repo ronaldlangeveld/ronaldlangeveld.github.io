@@ -2,4 +2,41 @@
 layout: default
 ---
 
-{{ content }}
+<section class="section">
+
+    <div class="container">
+
+
+<br>
+
+        <div class="columns is-centered">
+
+            <div class="column is-two-thirds">
+                    <br>
+                                        <h2 class="title is-3">{{ page.title }}</h2>
+                                        {% if page.feature-img %}
+                    <img style="width: 100%" src="{{ page.feature-img }}" alt="">
+                    {% endif %}
+
+            </div>
+
+        </div>
+
+        <div class="columns is-centered">
+
+            <div class="column is-half">
+
+<br>
+                    <div class="content is-medium">
+                    {{ content }}
+                    
+                    </div>
+                    <p class="subtitle is-6"><a href="/">Back to homepage</a></p>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+

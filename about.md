@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "About"
 feature-img: "https://res.cloudinary.com/cinemakers/image/upload/v1540219384/blog/IMG_4600-1.jpg"
 ---
