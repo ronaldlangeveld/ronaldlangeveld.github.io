@@ -37,7 +37,7 @@ layout: default
             <time class="subtitle is-7">{{ post.date | date: "%-d %B %Y"}}</time>
             <br>
             <h1 class="title is-3 has-text-black"><a class="has-text-black" href="{{ post.url }}">{{post.title}}</a></h1>
-            <p class="subtitle is-6">{{ post.content | strip_html | truncatewords:30 }}</p>
+            <p class="subtitle is-6">{{ post.content | strip_html | truncatewords:30 }} <a href="{{ post.url }}">read more</a></p>
        
             {% endfor %}
        

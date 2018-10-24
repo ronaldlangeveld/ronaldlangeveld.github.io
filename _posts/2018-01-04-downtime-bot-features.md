@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Getting Downtime Bot featured on Product Hunt."
-
+tldr: "How I got Downtime Bot to get a thousand hits"
 ---
 
 
