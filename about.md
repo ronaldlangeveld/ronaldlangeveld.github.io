@@ -40,13 +40,15 @@ Despite studying Economics and Business Administration in Korea, I've always bee
 
 ![](https://res.cloudinary.com/cinemakers/image/upload/v1540219384/blog/404898_3453785464693_729423200_n.jpg)
 
-Literally
-
   
 Still to this day when someone in town and even family got computer issues, they tend to contact me, before Googling. Sometimes I don't even know them!  
 However most days, if I can't sort it out remotely, I just send them to one of the local computer repair stores.
 
 I now have found my way into the tech industry, through doing web development and tech consultation gigs for both Individuals and Startups.
+
+<blockquote class="twitter-tweet" data-lang="en-gb"><p lang="en" dir="ltr">Day well spent. Surfed 2 hours this morning 🏄‍♂️ and wrote some code for the rest of the day. 🤓 ☕️ <a href="https://t.co/vkvhgQ0phh">pic.twitter.com/vkvhgQ0phh</a></p>&mdash; Ronald Langeveld (@ronaldlangeveld) <a href="https://twitter.com/ronaldlangeveld/status/1048236223482007553?ref_src=twsrc%5Etfw">5 October 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 In my free time I enjoy building my own projects / 'mini startups' with my fellow passionate makers over at [wip.chat](https://wip.chat/). All my projects are being built [openly in public](https://wip.chat/@ronaldl93).
 
@@ -62,3 +64,4 @@ or just say _hi at ronaldlangeveld.com_
 Let's meet up for coffee if you're [near me](https://nomadlist.com/@ronald).
 
 [Alternatively, say hello on the best messaging app ever, Telegram](https://t.me/ronaldl93).
+
