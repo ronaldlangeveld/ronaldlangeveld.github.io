@@ -14,7 +14,7 @@ I'm currently in Chiang Mai, Thailand. When I left Korea late 2016, I promised m
 
 One of the reason's I chose Chiang Mai is due to the large influx of remote workers and startup founders from all around the world living in the city and I knew I'd be having some mates here so it was a pretty obvious choice.
 
-After a few months of freelancing and improving my coding skills, I setup a new challenge for myself whilst I'm in Chiang Mai. I give myself 2 weeks to build and ship a product. While I probably won't launch something every 2 weeks, I will challenge myself with at least a few 2 week challenges over the next few months to force myself. 
+After a few months of freelancing and improving my coding skills, I setup a new challenge for myself whilst I'm in Chiang Mai. I give myself 2 weeks to build and ship a product. While I probably won't launch something every 2 weeks, I will challenge myself with at least a few 2 week challenges over the next few months to exercise my coding and execusion muscles. 
 
 For the first startup, I decided to partially scratch a my own itch, as well as building an idea that a family friend of ours hinted before.
 
