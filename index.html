@@ -2,7 +2,7 @@
 title: Ronald Langeveld
 layout: default
 ---
-<section class="hero">
+<section class="hero is-info">
         <div class="hero-body">
           <div class="container">
 
@@ -13,9 +13,7 @@ layout: default
         Ronald Langeveld
       </h1>
       <h2 class="subtitle is-5">
-        Indie Web Developer
-        <br>
-        <!-- <a href="/hire-me" class="is-size-7">💻 Need Development Help?</a> -->
+        <a href="/hire-me">💻 Need Development Help?</a>
 
   
       </h2>
@@ -37,7 +35,7 @@ layout: default
         </div>
       </section>
 
-<hr>
+
       <section class="section">
 
 <div class="container">
@@ -48,17 +46,69 @@ layout: default
 <div class="columns is-centered">
 
     <div class="column is-half">
+        <h2 class="title is-2">Latest Projects</h2>
+        <div id="projects">
+
+                        <p><a class="is-size-4 has-text-black has-text-weight-bold" href="https://pleaseremindme.xyz">Please Remind Me</a></p>
+                        <span class="tag is-success">Django</span> <span class="tag is-warning">Python 3</span> <span class="tag is-info">HTML</span> <span class="tag is-light">CSS</span> <span class="tag is-link">Javascript</span> <span class="tag is-primary">Bulma.io</span>
+                        <br>
+                        <br>
+                        <div class="borderShadow project-image hvr-grow" style="background-image: url(https://res.cloudinary.com/cinemakers/image/upload/v1543291720/screely-1542768203102.png)"></div>
+
+        </div>
+
+        <br>
+
+        <div id="projects">
+
+            <p class="is-size-4 has-text-black has-text-weight-bold">Steele Sports Performance</p>
+            <span class="tag is-info">HTML</span> <span class="tag is-light">CSS</span> <span class="tag is-link">Javascript</span> <span class="tag is-primary">Bulma.io</span>
+            <br>
+            <br>
+            <div class="borderShadow project-image hvr-grow" style="background-image: url(https://res.cloudinary.com/cinemakers/image/upload/v1543465108/blog/screely-1543464899783.png)"></div>
+
+</div>
+<br>
+<div id="projects">
+
+    <p class="is-size-4 has-text-black has-text-weight-bold">Quarter Kitchen & Cocktail Lab</p>
+    <span class="tag is-info">HTML</span> <span class="tag is-light">CSS</span></span> <span class="tag is-primary">Bulma.io</span>
+    <br>
+    <br>
+    <div class="borderShadow project-image hvr-grow" style="background-image: url(https://res.cloudinary.com/cinemakers/image/upload/v1543465810/blog/screely-1543465740966.png)"></div>
+
+</div>
+
+<br>
+<div id="projects">
+
+    <p class="is-size-4 has-text-black has-text-weight-bold">Rhum Room</p>
+    <span class="tag is-info">HTML</span> <span class="tag is-light">CSS</span></span> <span class="tag is-primary">Bulma.io</span>
+    <br>
+    <br>
+    <div class="borderShadow project-image hvr-grow" style="background-image: url(https://res.cloudinary.com/cinemakers/image/upload/v1543465813/blog/screely-1543465694927.png)"></div>
+
+</div>
+ 
+  </div>
+
+    <div class="column is-one-third">
+      
+
+      <h2 class="title is-2">Recent Posts</h2>
         
             {% for post in site.posts %}
 
             <time class="subtitle is-7">{{ post.date | date: "%-d %B %Y"}}</time>
             <br>
-            <h1 class="title is-3 has-text-black"><a class="has-text-black" href="{{ post.url }}">{{post.title}}</a></h1>
+            <h1 class="title is-4 has-text-black"><a class="has-text-black" href="{{ post.url }}">{{post.title}}</a></h1>
             <p class="subtitle is-6">{{ post.content | strip_html | truncatewords:30 }} <a href="{{ post.url }}">read more</a></p>
        
             {% endfor %}
        
         </div>
+
+
 
 
 
