@@ -4,6 +4,12 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+
+.banner {
+    background-color: #ff3860;
+
+}
+
 .project-image {
     background-size: cover;
     height: 20em;
