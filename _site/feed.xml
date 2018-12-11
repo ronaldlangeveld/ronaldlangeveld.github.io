@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-11T17:12:54+07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ronald Langeveld</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Startup #1 - Please Remind Me</title><link href="http://localhost:4000/2018/11/27/please-remind-me.html" rel="alternate" type="text/html" title="Startup #1 - Please Remind Me " /><published>2018-11-27T00:00:00+07:00</published><updated>2018-11-27T00:00:00+07:00</updated><id>http://localhost:4000/2018/11/27/please-remind-me</id><content type="html" xml:base="http://localhost:4000/2018/11/27/please-remind-me.html">&lt;p&gt;I’m currently in Chiang Mai, Thailand. When I left Korea late 2016, I promised myself to be back on this continent (even if it’s just for a bit) in less than 2 years. And here I am 22 months later, in Thailand of all places.&lt;/p&gt;
+
+&lt;p&gt;One of the reason’s I chose Chiang Mai is due to the large influx of remote workers and startup founders from all around the world living in the city and I knew I’d be having some mates here so it was a pretty obvious choice.&lt;/p&gt;
+
+&lt;p&gt;After a few months of freelancing and improving my coding skills, I setup a new challenge for myself whilst I’m in Chiang Mai. I give myself 2 weeks to build and ship a product. While I probably won’t launch something every 2 weeks, I will challenge myself with at least a few 2 week challenges over the next few months to exercise my coding and execusion muscles.&lt;/p&gt;
+
+&lt;p&gt;For the first startup, I decided to partially scratch a my own itch, as well as building an idea that a family friend of ours hinted before.&lt;/p&gt;
+
+&lt;p&gt;It took slightly longer than 2 weeks from the first line of code to launching - or about 52 hours coding time according to &lt;a href=&quot;https://wakatime.com&quot;&gt;Wakatime.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Today I’m launching my first little product, &lt;a href=&quot;https://www.pleaseremindme.xyz&quot;&gt;Please Remind Me&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+&lt;p&gt;I’m generally quite bad at remembering things. And personally, just setting a Siri reminder isn’t effective at all. I tend to kill the reminder and then forget about it again seconds later. Or I tend to factory reset my phone quite often so the reminder goes with that. I really need either an email reminder on the day I need to be reminded and a way to remind other people close to me. I can’t rely on myself to remember.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-solution&quot;&gt;The Solution&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.pleaseremindme.xyz&quot;&gt;Please Remind Me&lt;/a&gt;. A simple and easy to use reminder management system that allows you to automate reminder emails to yourself and whoever else you want to be reminded. You simply create a new reminder, write what you want to be reminded about, set a date when you would like to be reminded and it will automatically send on that day. 
+So now, if I set a reminder and include my brother’s email addresses we will not forget Mothers Day next year. 
+Simple example, but this is intended to be used with even more important things that you don’t think about everyday, like being reminded before your passport expires, car license, bills that needs to be paid in time, etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-tech&quot;&gt;The Tech&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sendgrid.com&quot;&gt;Sendgrid&lt;/a&gt;  is for sending emails.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bulma.io/&quot;&gt;Bulma&lt;/a&gt;  is used as the css framework.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.djangoproject.com&quot;&gt;Django&lt;/a&gt;  is used as the web framework, along with Python 3.7&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vultr.com&quot;&gt;Vultr&lt;/a&gt;  is my VPS host of choice. Running Ubuntu 18.04 LTS.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://paddle.com&quot;&gt;Paddle&lt;/a&gt; is my payment processor. Stripe would’ve been the ideal solution, but unfortunately it’s not supported in South Africa yet.&lt;/p&gt;
+
+&lt;h2 id=&quot;business-model&quot;&gt;Business Model&lt;/h2&gt;
+&lt;p&gt;Please remind me isn’t free, but I’ve done my best to keep it as cheap as possible, yet with the added value of not forgetting important things.
+It’s a very simple MVP at the moment but will continuously improve it.&lt;/p&gt;
+
+&lt;h2 id=&quot;future&quot;&gt;Future&lt;/h2&gt;
+&lt;p&gt;At the moment we only support Email reminders but will be implementing WhatsApp, Telegram and SMS reminders soon.&lt;/p&gt;</content><author><name>Ronald Langeveld</name></author><summary type="html">I’m currently in Chiang Mai, Thailand. When I left Korea late 2016, I promised myself to be back on this continent (even if it’s just for a bit) in less than 2 years. And here I am 22 months later, in Thailand of all places.</summary></entry><entry><title type="html">My blog post went to #1 on Hacker News!</title><link href="http://localhost:4000/2018/10/10/went-to-1-on-hacker-news.html" rel="alternate" type="text/html" title="My blog post went to #1 on Hacker News!" /><published>2018-10-10T00:00:00+07:00</published><updated>2018-10-10T00:00:00+07:00</updated><id>http://localhost:4000/2018/10/10/went-to-1-on-hacker-news</id><content type="html" xml:base="http://localhost:4000/2018/10/10/went-to-1-on-hacker-news.html">&lt;p&gt;On Sunday evening I decided to once and for all kill my Facebook account. But I didn’t want to lose everything so I managed to back up everything.&lt;/p&gt;
+
+&lt;p&gt;Instead of just doing that, I decided to document most of the process and do a little &lt;a href=&quot;https://ronaldlangeveld.com/deleting-facebook&quot;&gt;blog post&lt;/a&gt; about it, just for incase an old friend or acquaintance is looking for me, which they can google me and they’ll probably find this blog and a whole list of updated ways to contact me. And then they’ll know, “Ah, Ronald deleted his account, he didn’t unfriend me.” - no heavy vibes 💝&lt;/p&gt;
+
+&lt;p&gt;As with most of my blog posts, for fun, I share it on Hacker News along with Twitter &amp;amp; Reddit. I usually get a few views from it.&lt;/p&gt;
+
+&lt;p&gt;However this time was a little bit different.&lt;/p&gt;
+
+&lt;p&gt;About 20 minutes after I posted it, I suddenly saw my traffic surging fast and my server slowed down like crazy - but it luckily stayed live.&lt;/p&gt;
+
+&lt;p&gt;That’s when it hit me. My blog post is on the front page of Hacker News. OH MY GOSH!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/cinemakers/image/upload/v1540363161/blog/Screenshot-2018-10-08-at-08.52.40.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;About an hour after I posted it, it received over 3000 hits already.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/cinemakers/image/upload/v1540363161/blog/Screenshot-2018-10-08-at-07.23.31.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;First it was at #3.&lt;/p&gt;
+
+&lt;p&gt;But it quickly got ahead of the rest.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/cinemakers/image/upload/v1540363159/blog/Screenshot-2018-10-08-at-08.52.24-3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Ahead of Nvidia, Google and NY Times (classic headline though) OH MY GOSH 2.0&lt;/p&gt;
+
+&lt;p&gt;And it literally hovered around the top 3 for a few hours, till it started moving down. By the evening it was just over #10. And then it slowly faded away.&lt;/p&gt;
+
+&lt;p&gt;I mean, it’s not suppose to be a big deal. It’s not like I got money for it or anything tangible. But, the feeling that I something I posted actually got that much attention by over &lt;a href=&quot;https://simpleanalytics.io/ronaldlangeveld.com&quot;&gt;11,000 people in a day&lt;/a&gt;. That’s quite a cool feeling.&lt;/p&gt;
+
+&lt;p&gt;It also gave my servers a good stress test. My blog runs on &lt;a href=&quot;https://ghost.org&quot;&gt;Ghost&lt;/a&gt;, with Sqlite (as opposed to MySQL which they recommend) and it managed to stay up. I think a bit more RAM and CPU would’ve ensured that it stayed fast all the time - but still, it didn’t crash and it just kept serving page requests. At some point I was getting over 50 hits per second. That’s a lot of traffic for a $5 server.&lt;/p&gt;
+
+&lt;p&gt;Overall, It was a cool experience! Hopefully something like this happens again - and with one of my projects, or clients’ websites.&lt;/p&gt;</content><author><name>Ronald Langeveld</name></author><summary type="html">On Sunday evening I decided to once and for all kill my Facebook account. But I didn’t want to lose everything so I managed to back up everything.</summary></entry><entry><title type="html">How to delete Facebook and not lose your friends (and photos)</title><link href="http://localhost:4000/2018/10/08/deleting-facebook.html" rel="alternate" type="text/html" title="How to delete Facebook and not lose your friends (and photos)" /><published>2018-10-08T00:00:00+07:00</published><updated>2018-10-08T00:00:00+07:00</updated><id>http://localhost:4000/2018/10/08/deleting-facebook</id><content type="html" xml:base="http://localhost:4000/2018/10/08/deleting-facebook.html">&lt;blockquote&gt;
+  &lt;p&gt;Facebook is boring, it used to be great now it’s boring. I used to have 200 friends now I have 1500. There is no way I know 1500 people. Draconian measures must be taken to save my relationship with the social network. The unfriend button is my path to making Facebook an enjoyable experience once again.&lt;/p&gt;
+
+  &lt;p&gt;Despite Facebook’s very best algorithms my feed is mostly posts I don’t want to see. Let me clarify what posts I don’t want to see means;&lt;/p&gt;
+
+  &lt;p&gt;Anything from Upworthy&lt;br /&gt;
+Posts about dead dogs&lt;br /&gt;
+Injured dogs&lt;br /&gt;
+Mistreated dogs&lt;br /&gt;
+Dogs that need to be adopted&lt;br /&gt;
+Dogs with skin diseases that nobody loves&lt;br /&gt;
+Sick cats&lt;br /&gt;
+Dead cats&lt;br /&gt;
+Cats that need adoption&lt;br /&gt;
+Anything about people in China eating cats&lt;br /&gt;
+Anything from the ASPCA, PETA or other animal rights organization&lt;br /&gt;
+Anything from Upworthy&lt;br /&gt;
+Dead babies&lt;br /&gt;
+Abortion&lt;br /&gt;
+Sick babies&lt;br /&gt;
+Charities that help sick babies&lt;br /&gt;
+Monoamniotic twin babies born holding hands but covered in blood and all kinds of other grossness&lt;br /&gt;
+Anything baby at all unless it’s your beautiful newborn baby (in that case try to take a decent photo, remember lighting is everything)&lt;br /&gt;
+Politics&lt;br /&gt;
+Any quiz taken on Buzzfeed that lets you know what character on Game of Thrones you’d be, or what kind of house you live in or any fucking quiz from Buzzfeed&lt;br /&gt;
+Anything at all from Buzzfeed&lt;br /&gt;
+Anything from Upworthy&lt;br /&gt;
+Anything that includes the phrase ‘and what happened next will amaze you’&lt;br /&gt;
+News that’s older than 72 hours. Just cause it’s new to you doesn’t mean anyone cares&lt;br /&gt;
+Sports&lt;br /&gt;
+Anything from Upworthy&lt;br /&gt;
+What that leaves is simply the lives of the people I am friends with. What are you up to? Make something cool recently? Oh congrats! you got engaged, kids look great, cool pictures from the party, WOW you got accepted, a new job!, a new car!, a new boyfriend!, I hadn’t realized you were gay, great pictures, that’s a nice one too!, your trip to the Galapagos looks incredible. I care, please share you life. That’s why I like Facebook it lets me keep up with my friend’s lives especially the ones I might not otherwise have any access to.&lt;/p&gt;
+
+  &lt;p&gt;I defriend people who share things I am not interested in. It makes me hate the platform. It’s like adding salt to lemonade; the entire glass tastes like shit.&lt;/p&gt;
+
+  &lt;p&gt;Facebook is different for everyone, some value sharing things I find unsavory (this is an assumption, why else would so many people share so much garbage). If that’s your thing that’s cool. I choose to unfriend you, if we are actual friends IRL then we shall remain so, I just don’t want to see your shares anymore — yes I know I can unfollow, I’m not interested. If you don’t share my sentiment I understand entirely and I highly recommend and encourage you to Unfriend me, I won’t take it personally.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@CaseyNeistat/yes-i-unfriended-you-dont-take-it-personally-460203eb8378&quot;&gt;Written by Casey Neistat, 2014&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You see…. I tried this in 2017… It absolutely didn’t work!&lt;/p&gt;
+
+&lt;p&gt;People still share things way too much and every time you go on Facebook there’s like a whole plague of negativity that’s trying to give me cancer. Just no. It’s not cool. It really is no longer the cool thing it was back in 2008.&lt;/p&gt;
+
+&lt;p&gt;The thing is, having lived abroad there’s a whole lot of connections with people and photos I uploaded over the years, that I don’t wanna lose… But thankfully there’s a way.&lt;/p&gt;
+
+&lt;p&gt;1) Log into Facebook. Don’t look at any of the cancerous content on your feed and go directly into settings.&lt;/p&gt;
+
+&lt;p&gt;2) Click on “Your Facebook Information”&lt;/p&gt;
+
+&lt;p&gt;3) Click on “download your information”.&lt;/p&gt;
+
+&lt;p&gt;4) Now you’ve got a whole lot of options regarding what you want to download.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/KhrUpch.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I deselected everything and only chose “Photos and Videos” and “Friends”. Why? Well I honestly don’t care what I posted. It’s probably all embarrassing shit anyway. I’d rather not be relive it. Oh and the format - As a programmer, I chose json.&lt;/p&gt;
+
+&lt;p&gt;I then click on Create File. This basically generates a compressed .zip file with all this data you requested. It takes about an hour till its ready for you to download.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/AQ1Sf3b.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Eventually it’s ready to download&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/lwjUqy7.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And now it’s downloading.&lt;/p&gt;
+
+&lt;p&gt;After downloading it successfully, I backed it up onto my external hard drive.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/g5pn3Gu.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Extracting it, it gives me a lot of files. These are all my photos.&lt;/p&gt;
+
+&lt;p&gt;Now, to keep these files secure (It’s already on my hard disk, but I need a little bit extra), I backed them up onto my Google Photos account. About 1900 images.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/LqD1gTW.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As for my friend list.. well.. It’s all in Json format.. So now you can essentially use the power of your brain to think how your friend looked.&lt;br /&gt;
+If you can’t, well then you probably weren’t friends anyway. Sorry.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/VoZNAOO.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ll still figure out what I’m gonna do with the friends list. But hey, at least I have names, which is essentially my biggest weakness. I’m terrible with names.&lt;/p&gt;
+
+&lt;p&gt;What’s left now, is to delete your account.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Click &lt;strong&gt;Settings&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Click &lt;strong&gt;Your Facebook Information&lt;/strong&gt; in the left column.&lt;/li&gt;
+  &lt;li&gt;Click &lt;strong&gt;Delete Your Account and Information&lt;/strong&gt;, then click &lt;strong&gt;Delete My Account&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Enter your password, click &lt;strong&gt;Continue&lt;/strong&gt; and then click &lt;strong&gt;Delete Account&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/JS0lQ5h.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And now live happily ever after.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=18164188&quot;&gt;Join the discussion on Hacker News&lt;/a&gt;&lt;/p&gt;</content><author><name>Ronald Langeveld</name></author><summary type="html">Facebook is boring, it used to be great now it’s boring. I used to have 200 friends now I have 1500. There is no way I know 1500 people. Draconian measures must be taken to save my relationship with the social network. The unfriend button is my path to making Facebook an enjoyable experience once again. Despite Facebook’s very best algorithms my feed is mostly posts I don’t want to see. Let me clarify what posts I don’t want to see means; Anything from Upworthy Posts about dead dogs Injured dogs Mistreated dogs Dogs that need to be adopted Dogs with skin diseases that nobody loves Sick cats Dead cats Cats that need adoption Anything about people in China eating cats Anything from the ASPCA, PETA or other animal rights organization Anything from Upworthy Dead babies Abortion Sick babies Charities that help sick babies Monoamniotic twin babies born holding hands but covered in blood and all kinds of other grossness Anything baby at all unless it’s your beautiful newborn baby (in that case try to take a decent photo, remember lighting is everything) Politics Any quiz taken on Buzzfeed that lets you know what character on Game of Thrones you’d be, or what kind of house you live in or any fucking quiz from Buzzfeed Anything at all from Buzzfeed Anything from Upworthy Anything that includes the phrase ‘and what happened next will amaze you’ News that’s older than 72 hours. Just cause it’s new to you doesn’t mean anyone cares Sports Anything from Upworthy What that leaves is simply the lives of the people I am friends with. What are you up to? Make something cool recently? Oh congrats! you got engaged, kids look great, cool pictures from the party, WOW you got accepted, a new job!, a new car!, a new boyfriend!, I hadn’t realized you were gay, great pictures, that’s a nice one too!, your trip to the Galapagos looks incredible. I care, please share you life. That’s why I like Facebook it lets me keep up with my friend’s lives especially the ones I might not otherwise have any access to. I defriend people who share things I am not interested in. It makes me hate the platform. It’s like adding salt to lemonade; the entire glass tastes like shit. Facebook is different for everyone, some value sharing things I find unsavory (this is an assumption, why else would so many people share so much garbage). If that’s your thing that’s cool. I choose to unfriend you, if we are actual friends IRL then we shall remain so, I just don’t want to see your shares anymore — yes I know I can unfollow, I’m not interested. If you don’t share my sentiment I understand entirely and I highly recommend and encourage you to Unfriend me, I won’t take it personally.</summary></entry><entry><title type="html">Coding for beginners</title><link href="http://localhost:4000/2018/09/05/coding-for-beginners.html" rel="alternate" type="text/html" title="Coding for beginners" /><published>2018-09-05T00:00:00+07:00</published><updated>2018-09-05T00:00:00+07:00</updated><id>http://localhost:4000/2018/09/05/coding-for-beginners</id><content type="html" xml:base="http://localhost:4000/2018/09/05/coding-for-beginners.html">&lt;blockquote&gt;
+  &lt;p&gt;How do I build something? I’m not a programmer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/cinemakers/image/upload/v1540363568/blog/Screen-Shot-2018-09-05-at-13.21.44.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you wanna learn to make apps, build websites, etc and don’t have a budget to &lt;a href=&quot;/hire-me&quot;&gt;hire a developer&lt;/a&gt;, you should really take a couple of months and learn to build products. With a bit of effort and dedication you can develop and idea into software that actually work and does the way it should. Of course, you probably won’t be rebuilding &lt;a href=&quot;https://en.wikipedia.org/wiki/Crysis_3&quot;&gt;Crysis&lt;/a&gt; that quickly, but you’ll certain be able to start building things that everyone will envy you for.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-to-prepare-yourself&quot;&gt;How to prepare yourself:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It’s gonna take some time and effort.&lt;/li&gt;
+  &lt;li&gt;You will probably have endless nights, getting close to pulling your hair out. If you you get close to giving up, then well done, you’re getting deep into the coding game. Just carry on and you’ll have a breakthrough. Hopefully not a mental breakdown.&lt;/li&gt;
+  &lt;li&gt;You will become a professional at googling&lt;/li&gt;
+  &lt;li&gt;You will probably lose your your social life. But &lt;a href=&quot;http://wip.chat/&quot;&gt;internet coding friends&lt;/a&gt; exist for this reason.&lt;/li&gt;
+  &lt;li&gt;You will be proud of your first piece of software that finally works, but in 2 months you will absolutely hate it.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;additional-notes&quot;&gt;Additional Notes&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You don’t need to attend courses, bootcamps, etc.&lt;/li&gt;
+  &lt;li&gt;Probably don’t need books either, but might be helpful if you need some theoretical algorythms.&lt;/li&gt;
+  &lt;li&gt;Do some sort of exercise a few times a week. Swim, surf, skate, run, gym, whatever.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;and-most-importantly&quot;&gt;And most importantly&lt;/h2&gt;
+
+&lt;h3 id=&quot;just-start-by-writing-that-first-line-of-code&quot;&gt;JUST START BY WRITING THAT FIRST LINE OF CODE.&lt;/h3&gt;</content><author><name>Ronald Langeveld</name></author><summary type="html">How do I build something? I’m not a programmer.</summary></entry><entry><title type="html">I made a Telegram bot that tells me local surf conditions.</title><link href="http://localhost:4000/2018/01/10/oracle-bot.html" rel="alternate" type="text/html" title="I made a Telegram bot that tells me local surf conditions." /><published>2018-01-10T00:00:00+07:00</published><updated>2018-01-10T00:00:00+07:00</updated><id>http://localhost:4000/2018/01/10/oracle-bot</id><content type="html" xml:base="http://localhost:4000/2018/01/10/oracle-bot.html">&lt;p&gt;After I made Downtime bot, I decided to go a bit further and make it related to something I’m truly passionate about. Surfing.&lt;/p&gt;
+
+&lt;p&gt;It started off with mapping out my local knowledge about surfing here.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wind Direction&lt;/li&gt;
+  &lt;li&gt;Swell Direction&lt;/li&gt;
+  &lt;li&gt;Swell Size&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I also had to write a bit of code to convert the wind speeds to KMH from MPH. Feet is fine. Wave size should always be measured in feet.&lt;/p&gt;
+
+&lt;p&gt;Once I got that figured out I had to convert it into code, which I made available for you all on Github.&lt;/p&gt;
+
+&lt;p&gt;The friendly guys at Magicseaweed also hooked me up with an API so I can use it in bot.
+And now I can let me tell me the report for today and tomorrow on demand in human language.&lt;/p&gt;
+
+&lt;p&gt;Although its cool reading charts… this saves a lot of time - and I get to tweak it all the time (in code) based on my knowledge.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/cinemakers/image/upload/v1540363838/blog/9CmDKEM.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/cinemakers/image/upload/v1540364122/blog/lWcd2vU.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Over time I will advance it a bit and try to work out a ratings formula like 10/10 means the waves will be firing (ie, conditions is on par with ideal conditions) or 1/10 will be utter shit… also, I need it to automatically send me a message every night with the next morning’s conditions.&lt;/p&gt;
+
+&lt;p&gt;If you wanna make your own bot just replace the variables with its own desirable conditions as every surf spot is different.&lt;/p&gt;
+
+&lt;p&gt;Also, the API is from MSW.  You can use my key to check it out, but I really recommend getting your own one from them.. Just email them and they will gladly send you an api key.
+Read their docs to make sure you don’t get the report for the wrong location. It might confuse you.&lt;/p&gt;
+
+&lt;p&gt;And one more important thing: Be discrete with your location and it’s conditions - you don’t want to anger your friends and local surfers when a bunch of non-locals discover your bot and crowds your home break.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/burgundy93/localsurferbot&quot;&gt;Access the project on Github and feel free to fork it or contribute&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;</content><author><name>Ronald Langeveld</name></author><summary type="html">After I made Downtime bot, I decided to go a bit further and make it related to something I’m truly passionate about. Surfing.</summary></entry><entry><title type="html">Getting Downtime Bot featured on Product Hunt.</title><link href="http://localhost:4000/2018/01/04/downtime-bot-features.html" rel="alternate" type="text/html" title="Getting Downtime Bot featured on Product Hunt." /><published>2018-01-04T00:00:00+07:00</published><updated>2018-01-04T00:00:00+07:00</updated><id>http://localhost:4000/2018/01/04/downtime-bot-features</id><content type="html" xml:base="http://localhost:4000/2018/01/04/downtime-bot-features.html">&lt;p&gt;Launching products is what I love doing….. well, creating products and seeing it come to life and then sharing it with the world.. It think it’s the coding part that’s addictive. Writing code and then to see my computer finally doing what I asked it to do is what makes my dopamine levels rocket. It’s satisfying.&lt;/p&gt;
+
+&lt;p&gt;I went to a small surfing town called Jeffreys Bay over the Christmas holidays. It was great! I got to surf some epic waves, saw family and even went sandboarding. It’s an epic change of scene and routine from what I have going here. Good little breakaway.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/cinemakers/image/upload/v1540360389/blog/nIdgSMu.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Of course, it still didn’t stop me from coding as much as possible and working on multiple projects while I was there.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://res.cloudinary.com/cinemakers/image/upload/v1540360423/blog/wB3ntyn.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One afternoon when I got home, I tried accessing one of my sites.. but it was just down. Silly me, I realised that I forgot to &lt;code class=&quot;highlighter-rouge&quot;&gt;systemctl start nginx&lt;/code&gt; after configuring a few settings on my server. It was like 10 hours since I did it, which means my site was off for 10 years without even realising it. How silly. I do have a service who emails me when my site goes offline… but still - I rarely check my email especially if I’m not expecting anything.&lt;/p&gt;
+
+&lt;p&gt;Being kinda annoyed about it, I started thinking of ways that would make it easier for me to know when my site goes offline - without email &amp;amp; third party apps. The company I was with do actually provide SMS notifications, but they charge extra and per sms. Also, my phone is on flight mode (with wifi) most of the time so SMS’s wouldn’t come through.&lt;/p&gt;
+
+&lt;p&gt;I’m a member on this really awesome Telegram group called &lt;a href=&quot;https://wip.chat/&quot;&gt;Work in Progress&lt;/a&gt; (or WIP) where me and fellow developers (amongst others) would write To-Do’s and just chat. The To-Do’s are managed by bots and it’s pretty cool. You can let it know when you’ve completed a task and so forth. &lt;a href=&quot;https://levels.io/100-days-of-shipping/&quot;&gt;Pieter Levels wrote a detailed article about featuring WIP.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Because I got used to using Telegram’s Bots and I generally have my phone with me, as opposed to email, I figured a Telegram Bot letting me know when my site isn’t working is exactly what I need!&lt;/p&gt;
+
+&lt;p&gt;So I decided to learn how to code Bots.&lt;/p&gt;
+
+&lt;p&gt;Actually, it was relatively simple. Bots can be scripted in just about any language. I chose Python3. You get a bot token from the Botfather (another bot on Telegram) and then you hook it up to your script by using Telegram’s API. You have to hose the server script yourself though.
+There’s many open source projects on Github you can look at to get some examples.&lt;/p&gt;
+
+&lt;p&gt;After a couple of hours of coding and messing around, I finally got my Bot to message me when I typed &lt;code class=&quot;highlighter-rouge&quot;&gt;sudo systemctl stop nginx&lt;/code&gt; on my server. I was super stoked. Went around trying to show my whole family how its done, etc.&lt;/p&gt;
+
+&lt;p&gt;I loaded it up onto my server and I finally had my own bot that would notify me should something go wrong server side.&lt;/p&gt;
+
+&lt;p&gt;After doing some research I transformed it into a little service.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.producthunt.com/posts/downtime-bot-for-telegram&quot;&gt;On launch day I received close to a thousand hits and got featured on Product Hunt making it into the Top 10 products of the day.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So basically, if you want something that doesn’t exist, build it yourself… chances are it can become a little side business. Or not. But keep building your own stuff.&lt;/p&gt;</content><author><name>Ronald Langeveld</name></author><summary type="html">Launching products is what I love doing….. well, creating products and seeing it come to life and then sharing it with the world.. It think it’s the coding part that’s addictive. Writing code and then to see my computer finally doing what I asked it to do is what makes my dopamine levels rocket. It’s satisfying.</summary></entry></feed>
