@@ -26,6 +26,14 @@ url: "https://ronaldlangeveld.com" # the base hostname & protocol for your site,
 twitter_username: ronaldlangeveld
 github_username:  ronaldlangeveld
 
+
+page_gen:
+  - template: 'post'
+    name: 'slug'
+    dir: 'posts'
+    api: 'https://demo.ghost.io/ghost/api/v2/content/posts/?key=22444f78447824223cefc48062'
+
+
 # Build settings
 # theme: minima
 # plugins:
